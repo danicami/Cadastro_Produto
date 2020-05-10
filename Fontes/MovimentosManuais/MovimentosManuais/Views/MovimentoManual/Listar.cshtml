@@ -1,0 +1,62 @@
+﻿@model IEnumerable<MovimentosManuais.Models.MovimentoManual>
+
+@{
+    ViewData["Title"] = "ListarMovimentosManuais";
+}
+
+<h1>ListarMovimentosManuais</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Mês
+            </th>
+            <th>
+                Ano
+            </th>
+            <th>
+                Código do Produto
+            </th>
+            <th>
+                Descrição do Produto
+            </th>
+            <th>
+                Numero do Lançamento
+            </th>
+            <th>
+                Descrição
+            </th>
+            <th>
+                Valor
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.MovimentoManual) {
+        <tr>
+            <td>
+                @item.DataMes
+            </td>
+            <td>
+                @item.DataAno
+            </td>
+            <td>
+                @item.CodigoProduto
+            </td>
+            <td>
+                @item.DescricaoProduto
+            </td>
+            <td>
+                @item.NumeroLancamento
+            </td>
+            <td>
+                @item.Descricao
+            </td>
+            <td>
+                @item.Valor
+            </td>
+        </tr>
+            }
+    </tbody>
+</table>

@@ -1,0 +1,12 @@
+D:\Daniela\Cursos\Antlia\Exame\Daniela Araujo\Fontes\MovimentosManuais\Infraestrutura\bin\Debug\netcoreapp2.2\MovimentosInfraestrutura.deps.json
+D:\Daniela\Cursos\Antlia\Exame\Daniela Araujo\Fontes\MovimentosManuais\Infraestrutura\bin\Debug\netcoreapp2.2\MovimentosInfraestrutura.dll
+D:\Daniela\Cursos\Antlia\Exame\Daniela Araujo\Fontes\MovimentosManuais\Infraestrutura\bin\Debug\netcoreapp2.2\MovimentosInfraestrutura.pdb
+D:\Daniela\Cursos\Antlia\Exame\Daniela Araujo\Fontes\MovimentosManuais\Infraestrutura\obj\Debug\netcoreapp2.2\MovimentosInfraestrutura.csproj.CoreCompileInputs.cache
+D:\Daniela\Cursos\Antlia\Exame\Daniela Araujo\Fontes\MovimentosManuais\Infraestrutura\obj\Debug\netcoreapp2.2\MovimentosInfraestrutura.AssemblyInfoInputs.cache
+D:\Daniela\Cursos\Antlia\Exame\Daniela Araujo\Fontes\MovimentosManuais\Infraestrutura\obj\Debug\netcoreapp2.2\MovimentosInfraestrutura.AssemblyInfo.cs
+D:\Daniela\Cursos\Antlia\Exame\Daniela Araujo\Fontes\MovimentosManuais\Infraestrutura\obj\Debug\netcoreapp2.2\MovimentosInfraestrutura.dll
+D:\Daniela\Cursos\Antlia\Exame\Daniela Araujo\Fontes\MovimentosManuais\Infraestrutura\obj\Debug\netcoreapp2.2\MovimentosInfraestrutura.pdb
+D:\Daniela\Cursos\Antlia\Exame\Daniela Araujo\Fontes\MovimentosManuais\Infraestrutura\bin\Debug\netcoreapp2.2\MovimentosDominio.dll
+D:\Daniela\Cursos\Antlia\Exame\Daniela Araujo\Fontes\MovimentosManuais\Infraestrutura\bin\Debug\netcoreapp2.2\MovimentosDominio.pdb
+D:\Daniela\Cursos\Antlia\Exame\Daniela Araujo\Fontes\MovimentosManuais\Infraestrutura\obj\Debug\netcoreapp2.2\MovimentosInfraestrutura.csprojAssemblyReference.cache
+D:\Daniela\Cursos\Antlia\Exame\Daniela Araujo\Fontes\MovimentosManuais\Infraestrutura\obj\Debug\netcoreapp2.2\MovimentosInfraestrutura.csproj.CopyComplete
